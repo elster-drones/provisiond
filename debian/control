@@ -5,7 +5,7 @@ Build-Depends:
  debhelper (>= 9),
  dh-golang,
  dh-vci,
- golang-any,
+ golang-any:native,
  golang-github-danos-config-dev,
  golang-github-danos-encoding-rfc7951-dev,
  golang-github-danos-mgmterror-dev,
